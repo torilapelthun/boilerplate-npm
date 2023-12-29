@@ -2,7 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Toril Apelthun",
   "description": "A project to understand node.js",
-  "keywords": ["freeCodeCamp", "node.js", "test project"],
+  "keywords": ["freecodecamp", "node.js", "test project"],
   "dependencies": {
     "express": "^4.14.0"
   },
