@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../https-github.com-freeCodeCamp-boilerplate-npm"
+		},
+		{
+			"name": "boilerplate-npm",
+			"path": "."
+		}
+	],
+  "settings": {}
+}
