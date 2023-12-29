@@ -7,6 +7,7 @@
 		"node.js",
 		"test project"
 	],
+  "license": "APT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
