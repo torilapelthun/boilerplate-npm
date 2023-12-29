@@ -1,17 +1,21 @@
 {
-  "name": "fcc-learn-npm-package-json",
-  "author": "Toril Apelthun",
-  "description": "A project to understand node.js",
-  "keywords": ["freecodecamp", "node.js", "test project"],
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-  }
+	"name": "fcc-learn-npm-package-json",
+	"author": "Toril Apelthun",
+	"description": "A project to understand node.js",
+	"keywords": [
+		"freecodecamp",
+		"node.js",
+		"test project"
+	],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	}
 }
